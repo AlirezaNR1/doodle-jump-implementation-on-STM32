@@ -30,7 +30,6 @@ The game mechanics are as follows:
 - **Button Controls**: External keypad is mapped to control the game character.
 
 ## Demonstration
-
----
+https://github.com/AlirezaNR1/doodle-jump-implimentation-on-STM32/assets/141549257/c589c18f-04e2-4556-80ed-0a2a8f6c66d5
 
 Feel free to fill in each section with more details specific to your project. This should serve as a good starting point for your README file on GitHub!
