@@ -35,6 +35,9 @@ https://github.com/AlirezaNR1/doodle-jump-implimentation-on-STM32/assets/1415492
 
 
 For any inquiries or further information, please contact us at:
+
 •   Alireza Noorbakhsh - noorbakhsha1@gmail.com
+
 •   Faridreza Momtaz Zandi - faridmmz79@gmail.com
+
 Thank you for exploring our microprocessor project!
