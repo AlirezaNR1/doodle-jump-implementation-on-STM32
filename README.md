@@ -1,4 +1,4 @@
-# doodle-jump-implimentation-on-STM32
+# doodle-jump-implementation-on-STM32
 
 ## Introduction
 implements the classic Doodle Jump game using C programming on an STM32F3Discovery board. The game utilizes a 20x4 character display, a keypad for navigation and character control, a buzzer for sound effects, a 7-segment display for scoring, and a volume control for adjusting game difficulty.
